@@ -16,7 +16,7 @@ It is useful you to audio, train a model, and recognize speakers — all in one 
 
 ## 🧩 Project Structure
 ```text
-voice_recognition_app/
+voice_recognition/
 ├── main.py              # Entry point
 ├── gui.py               # Application GUI
 ├── audio/
@@ -29,7 +29,9 @@ voice_recognition_app/
 │   └── types.py         # Dataclasses
 ├── data/                # Saved WAV files
 ├── model.pkl            # Saved model (after training)
-└── requirements.txt     # List of required Python packages
+├── requirements.txt     # List of required Python packages
+├── .gitignore           # Git ignore rules
+└── README.md            # Project documentation
 ```
 ---
 ## ⚙️ Setup Instructions
