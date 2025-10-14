@@ -28,7 +28,8 @@ voice_recognition_app/
 ├── utils/
 │   └── types.py         # Dataclasses
 ├── data/                # Saved WAV files
-└── model.pkl            # Saved model (after training)
+├── model.pkl            # Saved model (after training)
+└── requirements.txt     # List of required Python packages
 ```
 ---
 ## ⚙️ Setup Instructions
