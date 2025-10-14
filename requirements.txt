@@ -1,0 +1,6 @@
+customtkinter
+sounddevice
+soundfile
+numpy
+librosa
+scikit-learn
