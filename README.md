@@ -1,19 +1,19 @@
-# 🎙️ Voice Recognition App
+# Voice Recognition App
 
-A simple, modular Python voice recognition system with a modern GUI built using **CustomTkinter**.  
-
----
-
-## 🚀 Features
-- 🎧 Record and label voice samples  
-- 🧠 Train and save a recognition model (`model.pkl`)  
-- 🔍 Test recognition with confidence scores  
-- 🪶 Clean CustomTkinter GUI  
-- ⚙️ Modular structure for easy maintenance
+Python voice recognition system using ML.  
 
 ---
 
-## 🧩 Project Structure
+## Features
+- Record and label voice samples  
+- Train and save a recognition model (`model.pkl`)  
+- Test recognition with confidence scores  
+- Clean CustomTkinter GUI  
+- Modular structure for easy maintenance
+
+---
+
+## Project Structure
 ```text
 voice_recognition/
 ├── main.py              # Entry point
@@ -33,7 +33,7 @@ voice_recognition/
 └── README.md            # Project documentation
 ```
 ---
-## ⚙️ Setup Instructions
+## Setup Instructions
 (*type all of this in the VS Code terminal*)
 
 1️⃣ Download
@@ -59,7 +59,7 @@ python main.py
 py main.py
 ```
 ---
-## 🧠 How It Works
+## How it works
 - Record samples for each person in the dataset (`data/person_name_folder`).
 - Train model → creates `model.pkl`.
 - Test recognition → identifies who is speaking based on trained data.
@@ -67,7 +67,7 @@ py main.py
 ⚠️ **Note:** The **Test Recognition** button is disabled until a trained model exists.
 
 
-## 🧰 Dependencies
+## Dependencies
 - customtkinter
 - sounddevice
 - soundfile
