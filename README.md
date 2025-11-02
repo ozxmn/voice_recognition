@@ -73,13 +73,13 @@ python main.py
 ---
 
 ## Gallery
-- Start
-![](https://freeimage.host/i/KLT2zXa)
-- Recording
-![](https://freeimage.host/i/KLT2ILJ)
-![](https://freeimage.host/i/KLT2F0Q)
-![](https://freeimage.host/i/KLT23qx)
-- Training
-![](https://freeimage.host/i/KLT2h22)
-- Voice recognition
-![](https://freeimage.host/i/KLT2SBj)
+**Start**
+![](https://github.com/ozxmn/previews/blob/main/IMG_3742.jpeg)
+**Recording**
+![](https://github.com/ozxmn/previews/blob/main/IMG_3745.jpeg)
+![](https://github.com/ozxmn/previews/blob/main/IMG_3748.jpeg)
+![](https://github.com/ozxmn/previews/blob/main/IMG_3749.jpeg)
+**Training**
+![](https://github.com/ozxmn/previews/blob/main/IMG_3750.jpeg)
+**Voice recognition**
+![](https://github.com/ozxmn/previews/blob/main/IMG_3751.jpeg)
