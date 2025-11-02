@@ -1,7 +1,8 @@
 # Voice recognition app
 
-![](https://media1.giphy.com/media/8BkAvnm5AowH29yQAW/giphy.gif?cid=9b38fe91xho69rvzamovidbg4rrrd5tc0xhb8fy0hwj5azlm&ep=v1_gifs_username&rid=giphy.gif&ct=g)
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/8BkAvnm5AowH29yQAW/giphy.gif?cid=9b38fe91xho69rvzamovidbg4rrrd5tc0xhb8fy0hwj5azlm&ep=v1_gifs_username&rid=giphy.gif&ct=g" alt="Demo" width="100%">
+</p>
 Python voice recognition system using ML.  
 
 ---
@@ -35,22 +36,21 @@ voice_recognition/
 └── README.md            # Project documentation
 ```
 ---
-## Setup
-(*type all of this in the VS Code terminal*)
+## Setup & running
 
-1️⃣ Download
+1. Download
 ```text
 git clone https://github.com/ozxmn/voice_reco.git
 
 cd voice_recognition
 ```
 
-2️⃣ Install dependencies
+2. Install dependencies
 ```text
 pip install -r requirements.txt
 ```
 
-3️⃣ Run the app
+3. Run the app
 ```text
 python main.py
 ```
@@ -59,9 +59,7 @@ python main.py
 - Record samples for each person in the dataset (`data/person_name_folder`).
 - Train model → creates `model.pkl`.
 - Test recognition → identifies who is speaking based on trained data.
-
-⚠️ **Note:** The **Test Recognition** button is disabled until a trained model exists.
-
+---
 
 ## Dependencies
 - customtkinter
